@@ -1,4 +1,4 @@
-# Advanced Encryption Sysytem
+# Advanced Encryption System
 
 🔐 Text Encryption & Decryption System Python GUI (PyQt5) AES-128
 
